@@ -8,3 +8,18 @@ Todas las Criptomonedas USDs en circulación están garantizadas en el valor equ
 La utilización de USDs como medio alternativo de pago da mas liquidez a las empresas e instituciones, facilita los pagos en reducción de tiempo de transacciones y costes.
 USDs se puede almacenar en tu monedero de Criptomonedas y Tokens con costes de mantenimiento zero.
 Los depósitos de USDs generan beneficios.
+STABLECOINUSD (USDs) es una Criptomoneda estable cuyo valor utiliza como referencia el valor del USD. Se puede utilizar como medio alternativo de pago que se puede guardar en el monedero de Criptomonedas que soporta Tokens ERC20. USDs no substituie el USD.
+Cambia ETHEREUM (solo de una cartera que acepta Tokens ERC20) y recibe directamente en tu monedero dolares (USDs).
+No envíes nunca Ethereum desde un monedero de Exchange.
+Para vender ETH envia los Ethereum a la dirección de contrato de USDs 0x6Ec28eB9B6adC599ab90184C47cA9a10bD27B248
+y recibes de forma automatica USDs. 0% comision a la compra de USDs y 2% a la venta de ETH
+SOLO PARA ENVIAR ETH.
+............................................................................................................................
+PARA ENVIAR USDs
+Para vender STABLECOINUSD (USDs) envia USDs a la direccion 0xC57b922aDB8f1ee90d88969D1bF41e300bce60Fe
+Nunca envies USDs a la direccion de contrato USDs
+............................................................................................................................
+STABLECOINUSD (USDs) no substituye  el USD y no incrementa ni disminuye la Masa Monetaria de USD. USDs es un certificado criptado respaldado y garantizado en dolares. USDs te permite almacenar, enviar y recibir USD en cuestión de segundos en cualquier parte del mundo.
+La conversión de USDs a USD es de 1 a 1. Siempre 
+1 USDs = 1 USD
+Si tu monedero no acepta Tokens ERC20 contactanos y te ingresamos USD, EUR, GBP y RON directamente en tu cuenta bancaria.
